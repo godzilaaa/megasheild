@@ -149,8 +149,8 @@ return {
     "^[!/#](stats)$",
     "^[!/#](statslist)$",
     "^[!/#](stats) (group) (%d+)",
-    "^[!/#](stats) (sbss)",
-	"^[!/#]([Ss]bss)$"
+    "^[!/#](stats) (megasheild)",
+	"^[!/#]([Mm]egasheild)$"
     }, 
   run = run
 }
